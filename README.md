@@ -15,6 +15,17 @@ By following this guide, you will:
 
 ---
 
+## 📃Table of Contents
+- [Prerequisites](#%EF%B8%8F-prerequisites)
+- [How to Use This Lab](#-getting-started)
+- [Running Gobuster](#-running-gobuster)
+- [Expected Results](#-expected-results)
+- [Security Takeaways](#-security-takeaways)
+- [Screenshots](#-screenshots)
+- [Next Steps](#-next-steps-optional)
+
+---
+
 ## 🛠️ Prerequisites
 
 Make sure you have the following installed on your machine:
