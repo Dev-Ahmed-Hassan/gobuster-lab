@@ -1,0 +1,9 @@
+admin
+backup
+hidden
+logs
+test
+robots.txt
+secret.txt
+config.php
+forbidden
