@@ -100,9 +100,10 @@ If everything works, Gobuster should discover hidden files/directories such as:
 
 ![Gobuster Results](./image/SS.png)  
 This screenshot shows **Gobuster successfully discovering hidden directories** such as `/hidden`, `/admin`, `/logs`, `/backup`, and the `robots.txt` file.  
-![Server Logs](./image/SS1.png)  
 The output highlights the status codes for each discovered path, simulating how an attacker would map out hidden content.
-
+_______
+![Server Logs](./image/SS1.png)  
+This screenshot shows the server logs for the requests made by gobuster
 
 ---
 
